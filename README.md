@@ -1,5 +1,6 @@
 # Gabriel Gomes da Costa
 **`Codando por Diversão`**
+<p>Opa! Me chamo Gabriel, tenho 18 anos e ainda não me decidi se quero seguir com programação como carreira. Sou apaixonado por aprender novas coisas e tecnologias e quero expandir cada vez mais meus conhecimentos!</p>
   <hr>
 
  **`Linguagens Tecnologicas`**
