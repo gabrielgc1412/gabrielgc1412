@@ -2,8 +2,12 @@
 **`Codando por Diversão`**
 <p>
   👨‍💻 Programador entusiasta, apaixonado por Python. 
+</p>
+<p>  
   📌 Conhecimento em Git e GitHub. 
-  🎯 Ainda decidindo se sigo programação como carreira. 
+</p>
+<p>
+🎯 Ainda decidindo se sigo programação como carreira. 
 </p>
   <hr>
 
