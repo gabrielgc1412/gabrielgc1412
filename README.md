@@ -1,13 +1,13 @@
 # Gabriel Gomes da Costa
 **`Codando por Diversão`**
 <p>
-  👨‍💻 Programador entusiasta, apaixonado por Python. 
+  👨‍💻 Programador entusiasta. 
 </p>
 <p>  
   📌 Conhecimento em Git e GitHub. 
 </p>
 <p>
-🎯 Ainda decidindo se sigo programação como carreira. 
+  🎯  
 </p>
   <hr>
 
