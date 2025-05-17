@@ -19,7 +19,7 @@
   <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-Rust" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg](https://raw.githubusercontent.com/77d4f66253ebc1221af605ae529963005dccc28d84198ea7c17010dfc7facf9f/68747470733a2f2f7777772e72757374616365616e2e6e65742f6173736574732f72757374616365616e2d6f7269672d6e6f736861646f772e737667)">
+  <img align="center" alt="Gabs-Rust" height="30" width="40" src="[https://raw.githubusercontent.com/tandpfun/skill-icons/blob/main/icons/Rust.svg)">
   
 </div>
 
