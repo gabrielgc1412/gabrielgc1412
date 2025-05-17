@@ -1,5 +1,4 @@
 # Gabriel Gomes da Costa
-**``**
 <p>
   👨‍💻 Coding enthusiast. 
 </p>
