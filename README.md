@@ -1,5 +1,5 @@
 # Gabriel Gomes da Costa
-**`Codando por Diversão`**
+**``**
 <p>
   👨‍💻 Coding enthusiast. 
 </p>
