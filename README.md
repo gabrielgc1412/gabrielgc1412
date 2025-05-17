@@ -1,17 +1,17 @@
 # Gabriel Gomes da Costa
 **`Codando por Diversão`**
 <p>
-  👨‍💻 Programador entusiasta. 
+  👨‍💻 Coding enthusiast. 
 </p>
 <p>  
-  📌 Conhecimento em Git e GitHub. 
+  📌 Git and GitHub knowledge. 
 </p>
 <p>
   🎯  
 </p>
   <hr>
 
- **`Linguagens Tecnologicas`**
+ **`Studying`**
 
 <div style="display: inline_block"><br>
 
@@ -26,7 +26,7 @@
 
 <hr>
 
-<h1>Siga-me nas Redes!</h1>
+<h1>Follow Me!</h1>
 
   <div> 
     
