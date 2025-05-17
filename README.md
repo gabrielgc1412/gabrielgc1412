@@ -20,6 +20,7 @@
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabs-Rust" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg">
+  <img align="center" alt="Gabs-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png">
   
 </div>
 
